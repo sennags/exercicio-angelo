@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+    justify-content: center;
+    font: bold 100px Candara;
+    padding: 10px;
+    animation: 
+        backInDown 2s ease -1s 1 normal none,
+        tada 2s ease 1s 1 normal
+    ;
+}
+.img {
+    text-align: center;
+    padding: 10px;
+}
+.desc {
+    text-align: center;
+    justify-content: center;
+    font: normal 30px Cambria;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 5px;
+}

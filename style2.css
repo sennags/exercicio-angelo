@@ -1,0 +1,23 @@
+.desc {
+    text-align: center;
+    padding: 20px;
+    font: bold 100px Candara;
+}
+.desc2 {
+    text-align: center;
+    padding: 30px;
+    font: normal 30px Cambria;
+}
+.icon {
+    text-align: center;
+}
+.voltar {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 30px;
+    padding: 5px;
+}
